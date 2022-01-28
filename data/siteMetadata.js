@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Berserker AR',
-  author: 'Nike',
-  headerTitle: 'Berserker_',
+  author: 'N',
+  headerTitle: '',
   description: 'Under construction -  🧙‍♂️🚧',
   language: 'es',
   theme: 'system', // system, dark or light

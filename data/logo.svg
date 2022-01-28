@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.01 79.72"><defs><style>.cls-1{fill:none;stroke:#00ed6e;stroke-miterlimit:10;stroke-width:7px;}</style></defs><g id="Capa_2" data-name="Capa 2"><g id="Capa_1-2" data-name="Capa 1"><polygon class="cls-1" points="5.21 5.48 8.6 36.26 8.8 38.04 8.91 39.03 12.6 72.57 41.79 46.45 8.8 38.04 38.8 19.29 5.21 5.48"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46px" height="75px" viewBox="0 0 46 75" version="1.1">
+<g id="surface1">
+<path style="fill:none;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,92.941176%,43.137255%);stroke-opacity:1;stroke-miterlimit:10;" d="M 5.218965 5.476542 L 8.598391 36.259354 L 8.806484 38.036028 L 8.902207 39.035944 L 12.602095 72.565305 L 41.785019 46.455919 L 8.806484 38.036028 L 38.800969 19.295119 Z M 5.218965 5.476542 " transform="matrix(0.938584,0,0,0.910233,0,1.218196)"/>
+</g>
+</svg>
