@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Java Spring App - Implementar el patrón repository
 date: '2022-01-06'
 tags: ['Java', 'Spring']
@@ -333,4 +333,4 @@ De esta forma podemos ejecutar todas las peticiones que queramos.
 # Conclusión
 
 Ahora la aplicación está lista para ejecutar peticiones HTTP y gestionar las transacciones.
-Si quisieras agregar mas entidades, seguirías el mismo proceso.
+Si quisieras agregar mas entidades, seguirías el mismo proceso. -->
