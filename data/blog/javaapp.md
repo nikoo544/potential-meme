@@ -81,7 +81,7 @@ Entidad es una clase que representa una tabla en la base de datos.
 
 En este caso creamos la clase Usuario.
 
-```java
+```
     package ar.berserker.springapp.entity;
 
     import javax.persistence.Entity;
@@ -179,7 +179,7 @@ Para heredar de JpaRepository, hay que pasarle como parametro el tipo de la enti
 
 En este caso la clase Usuario tiene una clave primaria de tipo Long.
 
-```java
+```
        package ar.berserker.springapp.repository;
 
        import ar.berserker.springapp.entity.Usuario;
@@ -204,7 +204,7 @@ A través de @Autowired se puede inyectar la dependencia del repositorio.
 
 y con @Transactional se hace una transacción contra la base de datos.
 
-```java
+```
         package ar.berserker.springapp.service;
 
         import ar.berserker.springapp.entity.Usuario;
@@ -251,7 +251,7 @@ Creamos la clase UsuarioController.
 
 UsuarioController se encarga de gestionar las peticiones HTTP que empiezan con /usuarios.
 
-```java
+```
         package ar.berserker.springapp.controller;
 
         import ar.berserker.springapp.entity.Usuario;
@@ -319,7 +319,7 @@ en este caso el valor es el id.
 
 Este valor se pasa como parametro entre llaves.
 
-```java
+```
 
         @GetMapping(value = "/usuarios/{id}")
         public Usuario findById(@PathVariable Long id) {
