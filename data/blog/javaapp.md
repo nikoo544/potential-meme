@@ -1,9 +1,9 @@
 ---
-title: Java Spring App - Implementar el patrón repository
+title: Java Spring App
 date: '2022-06-02'
 tags: ['Java', 'Spring']
 draft: false
-summary: Tutorial de una aplicacion basica de Java Spring.
+summary: 'Implementar el patrón repository'
 ---
 
 ## Generar el proyecto
