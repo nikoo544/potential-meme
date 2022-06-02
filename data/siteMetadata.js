@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Berserker AR',
   author: 'N',
   headerTitle: '',
-  description: 'nico blog',
+  description: 'Dev bLog 🕷 ',
   language: 'es',
   theme: 'system', // system, dark or light
   siteUrl: 'www.berserker.ar',
