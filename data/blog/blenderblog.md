@@ -298,11 +298,13 @@ UsuarioController se encarga de gestionar las peticiones HTTP que empiezan con /
 
 Peticiones HTTP
 
+```
     GET /usuarios
     GET /usuarios/{id}
     POST /usuarios
     DELETE /usuarios/{id}
     PUT /usuarios/{id}
+```
 
 @GetMapping ejecuta una petición HTTP GET.
 
