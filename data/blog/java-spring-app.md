@@ -157,8 +157,10 @@ Esta clase esta decorada con la anotación @Entity y @Table.
 
 Tiene configurado el atributo id como primary key
 
+```
 @Id
 @GeneratedValue(strategy = GenerationType.IDENTITY)
+```
 
 , y el resto de atributos como columnas de la tabla.
 Estos tienen configurado la anotación @Column, y sus respectivos getters y setters.
@@ -316,6 +318,16 @@ y con @PathVariable indicamos que valor es la variable que se encuentra en la pe
 en este caso el valor es el id.
 
 Este valor se pasa como parametro entre llaves.
+
+```java
+
+        @GetMapping(value = "/usuarios/{id}")
+        public Usuario findById(@PathVariable Long id) {
+            return usuarioService.findById(id);
+        }
+
+```
+
 De esta forma podemos ejecutar todas las peticiones que queramos.
 
 # Conclusión
