@@ -1,3 +1,4 @@
+---
 title: Blender blog # 1
 date: '2022-02-07'
 tags: ['blender', 'gamedev']
